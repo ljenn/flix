@@ -7,20 +7,20 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![](https://i.imgur.com/rVWK0bi.gif)
+
 
 ### Notes
-Describe any challenges encountered while building the app.
+Configuring the collection grid view to crop less and show the right amount of spacing inbetween rows and items took a little more alterations than in the lecture video.
 
 ---
 
@@ -39,8 +39,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/F0euVQ8.gif)
-
+<img src="https://i.imgur.com/F0euVQ8.gif" width=250><br>
 
 ### Notes
-Simulator is pretty slow to open & run on my computer. It was confusing navigating the project workspace, whenever I accidentally deleted the Navigators or Debug Area. It also took me awhile to understand that I had to click & drag in order to scroll through the simulator. The 
+Simulator is pretty slow to open & run on my computer. It was confusing navigating the project workspace, whenever I accidentally deleted the Navigators or Debug Area. It also took me awhile to understand that I had to click & drag in order to scroll through the simulator.
